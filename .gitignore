@@ -1,0 +1,39 @@
+# Java compiled files
+*.class
+
+# Package Files #
+*.jar
+*.war
+*.ear
+
+# Logs
+*.log
+
+# Temporary files
+*.tmp
+*.bak
+*.swp
+
+# NetBeans
+nbproject/private/
+build/
+dist/
+
+# Eclipse
+.settings/
+.classpath
+.project
+bin/
+
+# IntelliJ
+.idea/
+*.iml
+out/
+
+# VS Code
+.vscode/
+
+# System Files
+Thumbs.db
+.DS_Store
+desktop.ini
